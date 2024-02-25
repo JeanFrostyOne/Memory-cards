@@ -36,7 +36,7 @@ function compareImg(imgOne, imgTwo) {
     matchedCard++;
     if (matchedCard == 8) {
       handleWin();
-      return
+      return;
     }
     cardOne.removeEventListener("click", flipCard);
     cardTwo.removeEventListener("click", flipCard);

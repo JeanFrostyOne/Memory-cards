@@ -1,6 +1,6 @@
 # Memory-cards
 
-The project is a memory game that's very helpful for boosting one's memory. The player should find a pair of similar cards. All cards are hidden unless clicked. The purpose of the game to find all cards. The game is sumpremely easy to use and doesn't require any extra efforts. 
+The project is a memory game that's very helpful for boosting one's memory. The player should find a pair of similar cards. All cards are hidden unless clicked. The game is sumpremely easy to use and doesn't require any extra efforts. 
 
 ## Features
 
@@ -32,7 +32,3 @@ The project is a memory game that's very helpful for boosting one's memory. The 
 ### Unmatched cards
 
 ![mygif](gif/unmatched-cards.gif)
-
-### Full game
-
-![mygif](gif/fullgif.gif)
